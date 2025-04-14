@@ -20,17 +20,31 @@
 
 ## Screenshots
 
-![Creating new repo Screenshot](./screenshots/creating_new_repo.png)
-![Cloning new repo Screenshot](./screenshots/git_cloning.png)
-![Creating new python file Screenshot](./screenshots/create_py_file.png)
-![Git status Screenshot](./screenshots/git_status.png)
-![Git add Screenshot](./screenshots/git_add.png)
-![Git first commit Screenshot](./screenshots/git_commit.png)
-![Git push Screenshot](./screenshots/git_push.png)
-![Git pull Screenshot](./screenshots/git%20pull.png)
-![Git create new branch Screenshot](./screenshots/new_branch_created.png)
-![Updated Python code Screenshot](./screenshots/updated_pycode.png)
-![Git push updated feature Screenshot](./screenshots/push_feature_update.png)
-![Git commit updated code Screenshot](./screenshots/updated_commit.png)
-![Git merge request Screenshot](./screenshots/merging.png)
-![Git checkout main branch Screenshot](./screenshots/git_checkout_pull_updated.png)
+1. Creating new repo
+   ![Creating new repo Screenshot](./screenshots/creating_new_repo.png)
+2. Cloning new repo
+   ![Cloning new repo Screenshot](./screenshots/git_cloning.png)
+3. Creating new python file
+   ![Creating new python file Screenshot](./screenshots/create_py_file.png)
+4. Git status
+   ![Git status Screenshot](./screenshots/git_status.png)
+5. Git add
+   ![Git add Screenshot](./screenshots/git_add.png)
+6. Git first commit
+   ![Git first commit Screenshot](./screenshots/git_commit.png)
+7. Git push
+   ![Git push Screenshot](./screenshots/git_push.png)
+8. Git pull
+   ![Git pull Screenshot](./screenshots/git%20pull.png)
+9. Git create new branch
+   ![Git create new branch Screenshot](./screenshots/new_branch_created.png)
+10. Updated Python code
+    ![Updated Python code Screenshot](./screenshots/updated_pycode.png)
+11. Git push updated code
+    ![Git push updated feature Screenshot](./screenshots/push_feature_update.png)
+12. Git commit updated code
+    ![Git commit updated code Screenshot](./screenshots/updated_commit.png)
+13. Git merge request
+    ![Git merge request Screenshot](./screenshots/merging.png)
+14. Git checkout main branch
+    ![Git checkout main branch Screenshot](./screenshots/git_checkout_pull_updated.png)
