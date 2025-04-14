@@ -20,7 +20,8 @@
 
 ## Screenshots
 
-![Creating new repo Screenshot](./screenshots/creating_new_repo.png)
+!Creating new repo Screenshot
+(./screenshots/creating_new_repo.png)
 ![Cloning new repo Screenshot](./screenshots/git_cloning.png)
 ![Creating new python file Screenshot](./screenshots/create_py_file.png)
 ![Git status Screenshot](./screenshots/git_status.png)
