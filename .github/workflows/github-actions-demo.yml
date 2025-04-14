@@ -22,4 +22,4 @@ jobs:
           ls -R
       - name: Run tests
         run: |
-          python -m unittest osd_portfolio/portfolio/worksheet2/test_yatzy.py -v
+          python -m unittest portfolio/worksheet2/test_yatzy.py -v
