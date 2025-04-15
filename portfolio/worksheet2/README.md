@@ -30,10 +30,16 @@ The workflow runs pytest on every push or pull request to the main branch. See `
 ## Screenshots
 
 1. Github Actions Setup for Automated testing
+   Yml file for automation
    ![Yml file for automation](./screenshots/yml%20file%20for%20automated%20testing.png)
+   GitHub Workflow Folder
    ![GitHub Workflow Folder](./screenshots/git_workflow_folder.png)
+   GitHub Actions Test
    ![GitHub Actions Test](./screenshots/github_action_success.png)
 2. Running and Testing game
+   Running Mock Game
    ![Running Mock Game](./screenshots/running_game.png)
+   Testing All functions
    ![Testing All functions](./screenshots/testing_all_func.png)
+   Testing Game
    ![Testing Game](./screenshots/testing_game_terminal.png)

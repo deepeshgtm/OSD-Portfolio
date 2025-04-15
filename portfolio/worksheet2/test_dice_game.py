@@ -53,6 +53,10 @@ class TestDiceGame(unittest.TestCase):
         self.set_dice([3, 3, 4, 4, 5])
         self.assertEqual(self.game.DoublePairs(), 14)  # Pairs of 3s and 4s
 
+    def test_double_pairs_different_case(self):
+        """Test DoublePairs scoring with another set of pairs."""
+        self.set_dice([5, 5, 2, 2, 1])
+        self.assertEqual(self.game.DoublePairs(), 14)  # (5 * 2) + (2 * 2) = 14 
     def test_triple_match(self):
         """Test TripleMatch scoring."""
         self.set_dice([2, 2, 2, 3, 4])

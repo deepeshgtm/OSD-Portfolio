@@ -57,7 +57,10 @@ class DiceGame:
         counts = [self.dice.count(i) for i in range(1, 7)]
         pairs = [(i + 1) for i in range(5, -1, -1) if counts[i] >= 2]
         if len(pairs) >= 2:
-            return (pairs[0] + pairs[1]) * 2
+            # Calculate each pair's score as (value * 2) and sum them
+            score_first_pair = pairs[0] * 2
+            score_second_pair = pairs[1] * 2
+            return score_first_pair + score_second_pair
         return 0
 
     def TripleMatch(self):
